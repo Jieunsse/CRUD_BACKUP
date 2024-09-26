@@ -1,4 +1,4 @@
-package com.example.CRUD_2;
+package com.example.CRUD_2.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
